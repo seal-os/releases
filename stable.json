@@ -1,0 +1,10 @@
+{
+        "0.1.0": {
+                "release_date": "2018-11-21 09:21:17+00:00",
+                "major_software": {
+                        "kernel": "4.19.3"
+                },
+                "release_notes":"SealOS Release with kernel 4.19.3\n",
+                "url":"https://stable.releases.seal-os.org/armv7/current/sealos-v0.1.0.img.zip"
+        }
+}
