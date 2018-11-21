@@ -1,4 +1,4 @@
-# SealOS IoT Releases Feed
+# SealOS Secure IoT Releases Feed
 
 SealOS Releases have different channels the most useful ones are:
 Beta -> Stable.
